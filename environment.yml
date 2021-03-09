@@ -11,4 +11,5 @@ dependencies:
   #- intake
   - intake-esm
   - fsspec
+  - gcsfs
   #- seaborn
